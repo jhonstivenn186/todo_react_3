@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(224, 221, 217);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.completed-task {
+  text-decoration: line-through;
+  color: #db3545;
+}
+.text-capitalize{
+color:rgb(155, 0, 0);
+font-size: 40px;
+text-shadow: #f30018;
+background-color: rgb(255, 255, 255);
+border-style: dashed;
+}
+
+.btn-info{
+  background-color: #b60b1c;
+ 
+
+}
+.btn-success{
+  background-color: rgb(9, 90, 13);
+  
+}
+.btn {
+
+  height: 45px;
+
+}
+.Edit{
+  background-color: #db3545;
+}
+.bg-info{
+  background-color: #f30018;
+  
+}
+.form-control{
+  height: 45px;
+}
